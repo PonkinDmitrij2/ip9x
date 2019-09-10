@@ -1,0 +1,20 @@
+{
+  "name": "ip9x",
+  "version": "1.0.0",
+  "description": "To learn the basics of programming in the [**IP9X**](https://github.com/HowProgrammingWorks/Index/blob/master/IP9X.md) course, [**HowProgrammingWorks**](https://github.com/HowProgrammingWorks)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PonkinDmitrij2/ip9x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PonkinDmitrij2/ip9x/issues"
+  },
+  "homepage": "https://github.com/PonkinDmitrij2/ip9x#readme"
+}
