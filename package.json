@@ -4,7 +4,7 @@
   "description": "To learn the basics of programming in the [**IP9X**](https://github.com/HowProgrammingWorks/Index/blob/master/IP9X.md) course, [**HowProgrammingWorks**](https://github.com/HowProgrammingWorks)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint ./Exercises; hpw"
   },
   "repository": {
     "type": "git",
@@ -17,9 +17,8 @@
     "url": "https://github.com/PonkinDmitrij2/ip9x/issues"
   },
   "homepage": "https://github.com/PonkinDmitrij2/ip9x#readme",
-  "devDependencies": {
-    "eslint": "^6.3.0",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.18.2"
+  "dependencies": {
+    "eslint": "^6.4.0",
+    "hpw": "^0.1.9"
   }
 }
